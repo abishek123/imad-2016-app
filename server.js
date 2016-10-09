@@ -13,8 +13,8 @@ app.get('/article-one',function(req,res) {
     res.send('article 1 requested and will be served here');
 });
 
-app.get('/article-69',function(req,res){
-  res.send('article 69 is requested and will be served here xD')  
+app.get('/article-21',function(req,res){
+  res.send('article 21 is requested and will be served here ')  
 })
 
 
